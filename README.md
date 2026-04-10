@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm currently working on: <br>Building full-stack web apps using the MERN stack, focused on clean UI and scalable backend systems.<br><br>I'm looking to collaborate on:<br>web projects, startups, and open-source tools where design meets performance.<br><br>I'm looking for help with:<br>System design, performance optimization, writing production-ready code.<br><br>I'm currently learning:<br>Advanced React patterns, backend architecture, and modern DevOps basics.<br><br>Ask me about:<br>MERN stack, REST APIs, frontend design or turning ideas into web apps.<br><br>Fun fact:<br>I enjoy debugging almost as much as building new features.
 
 
